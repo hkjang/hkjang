@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+<p align="center">
+  Hk Jang is a <b>Backend</b> and <b>Frontend</b> developer with experience in the website and web application creation industry. He Specialize in <b>JavaScript</b> and have professional experience working with <b>JAVA, Node JS, Docker, Javascript</b> and <b>Technical Architecture</b>. He also have experience working with relational and spatial databases. 
+</p>
+<hr>
+</br>
+
+| <img src="https://github-readme-stats.vercel.app/api?username=hkjang&show_icons=true&theme=vue&include_all_commits=true" alt="hkjang" />	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkjang&layout=compact&theme=vue&langs_count=10&hide=tsql,css" alt="hkjang" />	|
+|---	                                                                                                                  |---	                                                   
+<br/>
+<div align="center">
+<a href="https://github.com/hkjang?tab=followers"><img src="https://img.shields.io/github/followers/hkjang.svg?style=social&label=Follow&maxAge=z"></a>
+<a href="https://github.com/hkjang"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/hkjang"><img src="https://komarev.com/ghpvc/?username=hkjang" alt="hkjang"/></a>
+
+[![StackOverflow Reputation: 2.5K](https://img.shields.io/badge/StackOverflow-2.5K-F27F33?logo=stackoverflow)](https://es.stackoverflow.com/users/39181/albert-hidalgo?tab=profile)
+
+</div>
+
 <!--
 **hkjang/hkjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
