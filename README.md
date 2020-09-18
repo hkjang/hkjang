@@ -14,7 +14,8 @@
 <a href="https://github.com/hkjang"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/hkjang"><img src="https://komarev.com/ghpvc/?username=hkjang" alt="hkjang"/></a>
 
-[![StackOverflow Reputation: 2.5K](https://img.shields.io/badge/StackOverflow-2.5K-F27F33?logo=stackoverflow)](https://es.stackoverflow.com/users/39181/albert-hidalgo?tab=profile)
+[![StackOverflow Reputation: 2.5K](https://img.shields.io/badge/StackOverflow-2.5K-F27F33?logo=stackoverflow)](https://es.stackoverflow.com/users/3789390/hkjang
+?tab=profile)
 
 </div>
 
