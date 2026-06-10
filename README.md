@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  Hk Jang is a <b>Backend</b> and <b>Frontend</b> developer with experience in the website and web application creation industry. He Specialize in <b>JavaScript</b> and have professional experience working with <b>JAVA, Node JS, Docker</b>. He also have experience working with relational and spatial databases. 
+  Hk Jang is building AI, Data, and FinTech products that transform complex business challenges into scalable solutions.
 </p>
 <hr>
 </br>
