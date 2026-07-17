@@ -204,9 +204,6 @@ I enjoy building practical systems that connect **technology, operations, govern
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=hkjang&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Hk Jang GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkjang&layout=compact&langs_count=8&hide=tsql,css,html&theme=tokyonight&hide_border=true" alt="Hk Jang top languages" />
-
 <br />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hkjang&theme=tokyo-night&hide_border=true&area=true" alt="Hk Jang contribution activity graph" />
